@@ -1,0 +1,3 @@
+sqlite3
+cv2
+face_recognition
