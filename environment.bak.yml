@@ -1,0 +1,9 @@
+name: E-ATM
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.10
+  - cmake==3.21.1
+  - dlib
+  - opencv
